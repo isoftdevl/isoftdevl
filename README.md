@@ -31,7 +31,7 @@ I am currently leading the development of two major enterprise solutions:
 ### 📫 Let's Connect
 - **Email:** [hire.isoftdev@gmail.com](mailto:hire.isoftdev@gmail.com)
 - **WhatsApp/Call:** [+234 704 417 5549](https://wa.me/2347044175549)
-- **Portfolio:** [yahaya-ishaq.netlify.app](https://yahaya-ishaq.netlify.app/)
+- **Portfolio:** [isoftdev.netlify.app](https://isoftdev.netlify.app/)
 
 ---
 
